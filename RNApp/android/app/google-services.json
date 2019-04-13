@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "171996029544",
+    "firebase_url": "https://mobileapp-8212a.firebaseio.com",
+    "project_id": "mobileapp-8212a",
+    "storage_bucket": "mobileapp-8212a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171996029544:android:328fce0f95e455bf",
+        "android_client_info": {
+          "package_name": "com.rnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171996029544-9nk9otnhbhsm5g3h9b4rlq114chqt1q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3g8K7gC8ULqewXEqLwNnuNnAtFS3RqgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
